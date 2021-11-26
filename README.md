@@ -1,7 +1,7 @@
 # The Complete JavaScript Course 2022: From Zero to Expert! https://www.udemy.com/course/the-complete-javascript-course/ #
 The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one! 
 
-# Game designed with coding challenges to help improve JavaScript skills #
+Game designed with coding challenges to help improve JavaScript skills 
 ## Guess my number game! ##
 
 ![image](https://user-images.githubusercontent.com/61083107/143581577-ae23b1af-2a4d-4b0a-b6bb-36f33fcee462.png)
