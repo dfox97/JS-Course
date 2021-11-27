@@ -1,0 +1,61 @@
+/* Do CSS later  */
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+html {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(153, 245, 7);
+}
+header {
+    position: relative;
+    height: 25vh;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top {
+    background-color: rgb(224, 11, 11);
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding-left: 30px;
+    text-align: left;
+}
+.mid {
+    background-color: aqua;
+
+    margin: auto;
+    width: 50%;
+}
+.bottom {
+    background-color: aqua;
+    margin-top: 5%;
+    text-align: center;
+}
+.btn {
+    background-color: #4caf50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+input[type='text'] {
+    background-color: #3cbc8d;
+    color: white;
+}
+*/

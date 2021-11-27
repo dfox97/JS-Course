@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFO - LIFO </title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <h1>Fifo(First In - First Out) and Queue data structure</h1>
+    </header>
+    <main>
+        <section class="top">
+            <p>This a basic implimentation of Fifo(First In - First Out) and Queue data structure.</p>
+            <p>Make this work by inputting an array along with a number to move the index by.</p>
+                <ul><b>Inputing Array Examples:</b>
+                <li>Input: 12345 --> [1,2,3,4,5] --> Index:3 --> Output:[4,5,1,2,3]</li>
+                <li>Input: 12,34 --> [12,34]--> Index:3 --> Output:[34,12]</li>
+                <li>Input: 1 2 3 4 5 --> [1,2,3,4,5]--> Index:3 --> Output:[4,5,1,2,3]</li>
+                </ul>
+        </section>
+        <section class="mid">
+            <input type="text" class="myarr"placeholder="Insert array">
+            <button class="btn check" >Add Array</button>
+            <input type="number" class="index"placeholder="Insert index">
+            <button class="btn moveArr">Move</button>
+        </section>  
+        <section class="bottom">
+            FIFO STACK:
+            <p>Array:<span class="arrayValue"></span></p>
+            <p>Index:<span class="indexValue"></span></p>
+            <p>Output:<span class="newArrayValue"></span></p>
+        </section>
+        
+    </main>
+      <script src="script.js"></script>
+    </body>
+</html>
